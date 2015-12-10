@@ -6,4 +6,5 @@
    * [bake](bake.md)
    * [balk](balk.md)
    * [banner & flag](banner_&_flag.md)
+   * barely
 
