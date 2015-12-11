@@ -7,5 +7,5 @@
    * [banner & flag](banner_&_flag.md)
    * [barely](barely.md)
    * [based on](basedon.md)
-   * basic
+   * [basic](basiic.md)
 
