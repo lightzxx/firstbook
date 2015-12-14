@@ -8,5 +8,5 @@
    * [barely](barely.md)
    * [based on](basedon.md)
    * [basic](basiic.md)
-   * basis
+   * [basis](basis-s.md)
 
