@@ -10,5 +10,5 @@
    * [basic](basiic.md)
    * [basis](basis-s.md)
    * [be(1)](bes.md)
-   * beans
+   * [beans](b/beans.md)
 
