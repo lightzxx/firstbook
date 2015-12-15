@@ -12,5 +12,5 @@
    * [be(1)](bes.md)
    * [beans](b/beans.md)
    * [bear](b/bear.md)
-   * beat
+   * [beat](b/beat.md)
 
